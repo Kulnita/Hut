@@ -1,5 +1,5 @@
 ## 🔍 Question
-* How to Classify Rock, Paper, Scissors Picture Using TensorFlow ?
+* How to Classify Rock, Paper, Scissors Picture ?
 * How to Utilize TensorFlow Lite to Deploy Our Model ?
 
 ## Data
